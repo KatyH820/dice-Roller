@@ -15,21 +15,9 @@ class _DiceRollerState extends State<DiceRoller> {
 
   void rollDice() {
     Random random = Random();
-    int number = random.nextInt(5);
+    int number = random.nextInt(5) + 1;
     setState(() {
-      if (number == 0) {
-        activeDiceImage = 'assets/images/dice1.png';
-      } else if (number == 1) {
-        activeDiceImage = 'assets/images/dice2.png';
-      } else if (number == 2) {
-        activeDiceImage = 'assets/images/dice3.png';
-      } else if (number == 3) {
-        activeDiceImage = 'assets/images/dice4.png';
-      } else if (number == 4) {
-        activeDiceImage = 'assets/images/dice-05.png';
-      } else if (number == 5) {
-        activeDiceImage = 'assets/images/dice6.png';
-      }
+      activeDiceImage = 'assets/images/dice$number.png';
     });
   }
 

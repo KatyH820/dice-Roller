@@ -20,6 +20,10 @@
 		<data>
 		pDZdhxyG09JlR+h49MsZoNzfCWs=
 		</data>
+		<key>flutter_assets/assets/images/dice-05.png</key>
+		<data>
+		4LWCFjcKr6eQD12mL5leaUtszuU=
+		</data>
 		<key>flutter_assets/assets/images/dice1.png</key>
 		<data>
 		ciOYEe60hkB1SrRlPI54iahqXa0=
@@ -38,7 +42,7 @@
 		</data>
 		<key>flutter_assets/assets/images/dice5.png</key>
 		<data>
-		UZEbC8X0hp6NLoVwtkjRtF3MWX8=
+		4LWCFjcKr6eQD12mL5leaUtszuU=
 		</data>
 		<key>flutter_assets/assets/images/dice6.png</key>
 		<data>
@@ -54,7 +58,7 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		nNaGkPyrd2crrK9Kf9ZtlyMOyxY=
+		b9esqZAAmRwvgOZU1WTa/MmafIU=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -92,6 +96,13 @@
 			AfoPaQjcS6G49ZU97BCw3fduUVMFtxitZpzRmcWrcXI=
 			</data>
 		</dict>
+		<key>flutter_assets/assets/images/dice-05.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9dQB4pC3M7a+77S/kJ/7817SXkHn9Z/TEYPLaGkDq34=
+			</data>
+		</dict>
 		<key>flutter_assets/assets/images/dice1.png</key>
 		<dict>
 			<key>hash2</key>
@@ -124,7 +135,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WEsuD+6Wn2kKxr9ieKt9QaSUZse09JXxC3UBqhipA28=
+			9dQB4pC3M7a+77S/kJ/7817SXkHn9Z/TEYPLaGkDq34=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/images/dice6.png</key>
@@ -152,7 +163,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			G7VPB8NPJVD6Mk6/IqDgie7m9W0mp6TLWNuTmOHlWuE=
+			orhFXXcj8WGDaXgnR6RI2gCFeXOFwlwhxy8ZTk9GPwM=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
